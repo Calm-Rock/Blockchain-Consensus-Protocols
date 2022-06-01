@@ -1,0 +1,1 @@
+Proof of work consensus based Blockchain written in JavaScript
