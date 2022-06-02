@@ -44,4 +44,8 @@ User().prototype.emailAddress = function () {
 /// > johnsmith@facebook.com  User1 firstName = 'john' and lastName = 'smith'
 ```
 
-Classes in JS are simple sugar coating of Constructor function and object prototype so it would be a good option to just go with Constructor functions.
+Classes in JavaScript are simple sugar coating of Constructor function and object prototype so it would be a good option to just go with Constructor functions.
+
+```
+Proof of work is difficult to calculate but once we get the correct nonce or proof it is very easy to verify
+```
